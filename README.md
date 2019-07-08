@@ -1,6 +1,6 @@
 # GildedRose-Refactoring-Kata
 
-##Requirement
+## Requirement
 - Java 8
 - Maven
 
